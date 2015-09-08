@@ -1,0 +1,48 @@
+body 
+{
+    background-color:#E3E5E7;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 70px;
+    color: #444444;
+    font-family: sans-serif;
+}
+p 
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 1.3em;
+    color: #444444;
+}
+h1
+{
+    font-size: 65px;
+    font-weight: lighter;
+    font-weight:100;
+    margin-bottom: -25px;
+}
+h3
+{
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 25px;
+    color: #444444;
+}
+
+    span.headerp 
+{
+    font-size: 20px;
+    font-weight: 200;
+    color: #444444;
+}
+h4 
+{
+    font-size: 48px;
+    margin-top: -10px;
+    font-weight: 100;
+    color: #444444;
+}
+footer
+{
+    font-size: 18px;
+}
